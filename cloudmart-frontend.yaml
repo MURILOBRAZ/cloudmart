@@ -18,7 +18,7 @@ spec:
         image: CONTAINER_IMAGE
 ---
 
-apiVersion: v1
+apiVersion: v2
 kind: Service
 metadata:
   name: cloudmart-frontend-app-service
